@@ -90,7 +90,10 @@ where (Amt <1000 OR NOT (Odate = "1990-10-03" AND Cnum >2003));
 +------+---------+------------+------+------+
 
 6.select * from salespeople where (Comm >.12 OR Comm <.14);
-
+ 
+ simpler way:
+ 
+ select * from salespeople;
 +------+---------+-----------+------+
 | Snum | Sname   | City      | Comm |
 +------+---------+-----------+------+
