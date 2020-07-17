@@ -1,0 +1,13 @@
+Q1.
+
+->Cnum
+
+q2.
+->Rating
+
+Q3.
+->another word for row ...tuple.
+->another word for column...attribute,method.
+
+q4.
+-> due to row addressing.
